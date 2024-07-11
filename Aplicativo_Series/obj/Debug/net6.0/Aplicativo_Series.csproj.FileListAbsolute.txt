@@ -1,0 +1,15 @@
+C:\Users\delcl\source\repos\Aplicativo_Series\Aplicativo_Series\bin\Debug\net6.0\Aplicativo_Series.exe
+C:\Users\delcl\source\repos\Aplicativo_Series\Aplicativo_Series\bin\Debug\net6.0\Aplicativo_Series.deps.json
+C:\Users\delcl\source\repos\Aplicativo_Series\Aplicativo_Series\bin\Debug\net6.0\Aplicativo_Series.runtimeconfig.json
+C:\Users\delcl\source\repos\Aplicativo_Series\Aplicativo_Series\bin\Debug\net6.0\Aplicativo_Series.dll
+C:\Users\delcl\source\repos\Aplicativo_Series\Aplicativo_Series\bin\Debug\net6.0\ref\Aplicativo_Series.dll
+C:\Users\delcl\source\repos\Aplicativo_Series\Aplicativo_Series\bin\Debug\net6.0\Aplicativo_Series.pdb
+C:\Users\delcl\source\repos\Aplicativo_Series\Aplicativo_Series\obj\Debug\net6.0\Aplicativo_Series.csproj.AssemblyReference.cache
+C:\Users\delcl\source\repos\Aplicativo_Series\Aplicativo_Series\obj\Debug\net6.0\Aplicativo_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delcl\source\repos\Aplicativo_Series\Aplicativo_Series\obj\Debug\net6.0\Aplicativo_Series.AssemblyInfoInputs.cache
+C:\Users\delcl\source\repos\Aplicativo_Series\Aplicativo_Series\obj\Debug\net6.0\Aplicativo_Series.AssemblyInfo.cs
+C:\Users\delcl\source\repos\Aplicativo_Series\Aplicativo_Series\obj\Debug\net6.0\Aplicativo_Series.csproj.CoreCompileInputs.cache
+C:\Users\delcl\source\repos\Aplicativo_Series\Aplicativo_Series\obj\Debug\net6.0\Aplicativo_Series.dll
+C:\Users\delcl\source\repos\Aplicativo_Series\Aplicativo_Series\obj\Debug\net6.0\ref\Aplicativo_Series.dll
+C:\Users\delcl\source\repos\Aplicativo_Series\Aplicativo_Series\obj\Debug\net6.0\Aplicativo_Series.pdb
+C:\Users\delcl\source\repos\Aplicativo_Series\Aplicativo_Series\obj\Debug\net6.0\Aplicativo_Series.genruntimeconfig.cache
